@@ -1,4 +1,8 @@
 # Guac
 ## Ingredients
-## Instructions
+* avocado
+* lime
+* salt
 
+## Instructions
+* destroy the avocado
