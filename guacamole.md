@@ -5,4 +5,4 @@
 * salt
 
 ## Instructions
-* destroy the avocado
+o
